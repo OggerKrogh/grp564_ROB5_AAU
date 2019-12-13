@@ -7,4 +7,4 @@ GY91 folder contains a library we made for using the IMU GY91 to perform floor d
 
 qt5000 is the GUI
 
-Simplenavigoationgoals.cpp is our main code for controlling the robotic solution.
+simple_navigation_goals.cpp is our main code for controlling the robotic solution.
